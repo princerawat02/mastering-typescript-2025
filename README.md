@@ -8,20 +8,21 @@ Each section covers important concepts, patterns, and advanced features of TypeS
 
 ## Table of Contents
 
-[**01 - Introduction**](01-Introduction/README.md)
-[**02 - Installation and Setup**](02-Installation-and-Setup/README.md)
-[**03 - Type Annotation Basics**](03-Type-Annotation-Basics/README.md)
-[**04 - Functions**](04-Functions/README.md)
-[**05 - Objects**](05-Objects/README.md)
-[**06 - Arrays**](06-Arrays/README.md)
-[**07 - Union Types**](07-Union-Types/README.md)
-[**08 - Tuples and Enums**](08-Tuples-and-Enums/README.md)
-[**09 - Interfaces**](09-Interfaces/README.md)
-[**10 - Classes in JS**](10-Classes-in-JS/README.md)
-[**11 - Classes in TS**](11-Classes-in-TS/README.md)
-[**12 - Generics**](12-Generics/README.md)
-[**13 - Type Narrowing**](13-Type-Narrowing/README.md)
-[**14 - Modules**](14-Modules/README.md)
-[**15 - React and TS**](15-React-and-TS/README.md)
+1. [**01 - Introduction**](01-Introduction/README.md)
+2. [**02 - Installation and Setup**](02-Installation-and-Setup/README.md)
+3. [**03 - Type Annotation Basics**](03-Type-Annotation-Basics/README.md)
+4. [**04 - Functions**](04-Functions/README.md)
+5. [**05 - Objects**](05-Objects/README.md)
+6. [**06 - Arrays**](06-Arrays/README.md)
+7. [**07 - Union Types**](07-Union-Types/README.md)
+8. [**08 - Tuples and Enums**](08-Tuples-and-Enums/README.md)
+9. [**09 - Interfaces**](09-Interfaces/README.md)
+10. [**10 - Classes in JS**](10-Classes-in-JS/README.md)
+11. [**11 - Classes in TS**](11-Classes-in-TS/README.md)
+12. [**12 - Generics**](12-Generics/README.md)
+13. [**13 - Type Narrowing**](13-Type-Narrowing/README.md)
+14. [**14 - Modules**](14-Modules/README.md)
+15. [**15 - React and TS**](15-React-and-TS/README.md)
+
 
 ---
